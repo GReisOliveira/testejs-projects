@@ -21,7 +21,7 @@ Os projetos fazem parte da minha jornada de aprendizado em desenvolvimento front
 ## Prints
 
 ### Multiplication Table
-![Multiplication Table Screenshot](Prints/multiplicationtable.png)
+![Multiplication Table Screenshot](Prints/multiplicationtable.jpg)
 
 ---
 
