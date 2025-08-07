@@ -19,7 +19,29 @@ Os projetos fazem parte da minha jornada de aprendizado em desenvolvimento front
 ---
 
 ## Prints
-Em breve, adicionarei capturas de tela dos projetos funcionando no navegador.
+
+### Multiplication Table
+![Multiplication Table Screenshot](prints/multiplicationtable.png)
+
+---
+
+### Age Checker
+![Age Checker Screenshot](prints/agechecker.jpg)
+
+---
+
+### Analyze Numbers
+![Analyze Numbers Screenshot](prints/analyzenumbers.jpg)
+
+---
+
+### Counter
+![Counter Screenshot](prints/counter.jpg)
+
+---
+
+### Time of Day (Hours)
+![Hours Screenshot](prints/hours.jpg)
 
 ---
 
