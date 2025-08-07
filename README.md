@@ -18,12 +18,12 @@ Os projetos fazem parte da minha jornada de aprendizado em desenvolvimento front
 
 ---
 
-## 📸 Prints
+## Prints
 Em breve, adicionarei capturas de tela dos projetos funcionando no navegador.
 
 ---
 
-## 🚀 Como rodar localmente
+## Como rodar localmente
 
 Clone o repositório:
 
