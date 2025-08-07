@@ -21,27 +21,27 @@ Os projetos fazem parte da minha jornada de aprendizado em desenvolvimento front
 ## Prints
 
 ### Multiplication Table
-![Multiplication Table Screenshot](prints/multiplicationtable.png)
+![Multiplication Table Screenshot](Prints/multiplicationtable.png)
 
 ---
 
 ### Age Checker
-![Age Checker Screenshot](prints/agechecker.jpg)
+![Age Checker Screenshot](Prints/agechecker.jpg)
 
 ---
 
 ### Analyze Numbers
-![Analyze Numbers Screenshot](prints/analyzenumbers.jpg)
+![Analyze Numbers Screenshot](Prints/analyzenumbers.jpg)
 
 ---
 
 ### Counter
-![Counter Screenshot](prints/counter.jpg)
+![Counter Screenshot](Prints/counter.jpg)
 
 ---
 
 ### Time of Day (Hours)
-![Hours Screenshot](prints/hours.jpg)
+![Hours Screenshot](Prints/hours.jpg)
 
 ---
 
