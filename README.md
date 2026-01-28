@@ -8,13 +8,13 @@ Os projetos fazem parte da minha jornada de aprendizado em desenvolvimento front
 
 ##  Projetos
 
-| Nome                  | Descrição                                         | Visualizar (GitHub Pages)            |
-|-----------------------|--------------------------------------------------|--------------------------------------|
-| **Age**               | Verificador de idade com imagem dinâmica         | *(link em breve)*                    |
-| **Analyzenumbers**    | Analisa números: total, maior, menor, média, soma| *(link em breve)*                    |
-| **Counter**           | Contador simples com botões                      | *(link em breve)*                    |
-| **Hours**             | Mostra a hora do dia e muda imagem e saudação    | *(link em breve)*                    |
-| **MultiplicationTable** | Gera tabuada dinamicamente                    | *(link em breve)*                    |
+| Nome                  | Descrição                                         |          
+|-----------------------|--------------------------------------------------|
+| **Age**               | Verificador de idade com imagem dinâmica         |
+| **Analyzenumbers**    | Analisa números: total, maior, menor, média, soma|
+| **Counter**           | Contador simples com botões                      |
+| **Hours**             | Mostra a hora do dia e muda imagem e saudação    |
+| **MultiplicationTable** | Gera tabuada dinamicamente                    | 
 
 ---
 
