@@ -1,4 +1,4 @@
-# Projetos de Prática com JavaScript 🧠💻
+# Projetos de Prática com JavaScript 
 
 Este repositório contém vários mini-projetos desenvolvidos com **HTML**, **CSS** e **JavaScript puro**.
 
@@ -6,7 +6,7 @@ Os projetos fazem parte da minha jornada de aprendizado em desenvolvimento front
 
 ---
 
-## 📂 Projetos
+##  Projetos
 
 | Nome                  | Descrição                                         | Visualizar (GitHub Pages)            |
 |-----------------------|--------------------------------------------------|--------------------------------------|
